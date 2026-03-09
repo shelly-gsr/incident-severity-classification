@@ -60,3 +60,7 @@ Key Feature Types:
 - Modeling imbalance: Use class weighting or oversampling (e.g., SMOTE); consider binary “high-risk vs low-risk” framing.
 - Evaluation metrics: Prioritize recall, F1-score, and macro metrics for severe accidents; use confusion matrices and cost-weighted evaluation.
 - Interpretability & use: Weighted ordinal regression provides interpretable risk thresholds; use predictions as flags, not exact severity labels.
+
+## Results
+
+![Classification Results](04_output/classification-results.png)
